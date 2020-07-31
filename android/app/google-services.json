@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "787185481665",
+    "firebase_url": "https://pushingflutter.firebaseio.com",
+    "project_id": "pushingflutter",
+    "storage_bucket": "pushingflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787185481665:android:41bc792a4e7ea512772140",
+        "android_client_info": {
+          "package_name": "es.procisa.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787185481665-o4d1me0ekbkdkl5af63g1rfbnl08q6nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.procisa.notification",
+            "certificate_hash": "d6b741847c4c1cf25e2e5fddc3ad7ed80b6791a1"
+          }
+        },
+        {
+          "client_id": "787185481665-ppu090jptv4tgmt6b50h30lhqivrp9he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9LlCjL0RNtzN0NqTZjJN3Z9aG03oq7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787185481665-ppu090jptv4tgmt6b50h30lhqivrp9he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
